@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=600&lines=Hello+World!+I'm+Shaheer+Jamal;Cybersecurity+Enthusiast;Python+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0D0D0D&center=true&vCenter=true&random=false&width=600&lines=Hello+World!+I'm+Shaheer+Jamal;Cybersecurity+Enthusiast;Python+Developer;Welcome+to+my+GitHub+Profile!" alt="Greetings!" />
 </h1>
 
 <p align="center">
@@ -150,29 +150,41 @@ me.say_hi()
   Skills Progress
 </h2>
 
-<div align="center">
+<!-- Animated text -->
+<p align="center">
+  <a href="#" style="text-decoration: none;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=353839&center=true&vCenter=true&width=500&lines=Click+on+any+skill+to+explore+my+projects!;See+my+code+samples+and+learning+journey!;Check+out+my+work+in+these+technologies!" alt="Typing SVG"/>
+  </a>
+</p>
+
+<!-- Skills in a single row -->
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
   <a href="https://github.com/ShaheerJamalChishti90/My-Python-Codes-Learning-v2">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Progress bar" width="50" height="50"/>
-  </a><br>
-  
-  <a href="https://github.com/ShaheerJamalChishti90/Learning-Flask">
-    <img src="https://progress-bar.dev/70/?title=Flask&width=500&color=000000" alt="Flask Progress" />
-  </a><br>
-  
-  <a href="https://github.com/ShaheerJamalChishti90/My_SQL-">
-    <img src="https://progress-bar.dev/80/?title=MySQL&width=500&color=00618A" alt="MySQL Progress" />
-  </a><br>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Progress Bar" width="50" height="50" style="margin: 0 10px;"/>
+  </a>
+
+  <a href="https://github.com/ShaheerJamalChishti90/Table">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5 Progress Bar" width="50" height="50" style="margin: 0 10px;"/>
+  </a>
   
   <a href="https://github.com/ShaheerJamalChishti90/Table">
-    <img src="https://progress-bar.dev/70/?title=HTML/CSS&width=500&color=E34F26" alt="HTML/CSS Progress" />
-  </a><br>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50" style="margin: 0 10px;"/>
+  </a>
+  
+  <a href="https://github.com/ShaheerJamalChishti90/Learning-Flask">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask Progress Bar" width="50" height="50" style="margin: 0 10px;"/>
+  </a>
+  
+  <a href="https://github.com/ShaheerJamalChishti90/My_SQL-">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL Progress Bar" width="50" height="50" style="margin: 0 10px;"/>
+  </a>
   
   <a href="https://github.com/ShaheerJamalChishti90/Learning-Pandas">
-    <img src="https://progress-bar.dev/60/?title=Pandas&width=500&color=150458" alt="Pandas Progress" />
-  </a><br>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas Progress Bar" width="50" height="50" style="margin: 0 10px;"/>
+  </a>
   
   <a href="https://github.com/ShaheerJamalChishti90/Learning-Seaborn-2024">
-    <img src="https://progress-bar.dev/50/?title=Seaborn&width=500&color=3776AB" alt="Seaborn Progress" />
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn Progress Bar" width="50" height="50" style="margin: 0 10px;"/>
   </a>
 </div>
 
@@ -196,8 +208,8 @@ me.say_hi()
 
 <!-- Support Me -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/huyZxIJvtqVQEfPct9/giphy.gif" width="40"> 
-  Support Me
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemlhZm14eTI0ejB3ZHR3aTVsbXcxMmNuNmxiMzh2NDUyOHRuNGgwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/23D8NR89IoZUC9jgsO/giphy.gif" width="40"> 
+  Support Me by following! <3
 </h2>
 
 <p align="center">
