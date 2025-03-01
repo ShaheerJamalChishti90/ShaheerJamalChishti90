@@ -28,7 +28,7 @@ class AboutMe:
     def __init__(self):
         self.name = "Shaheer Jamal"
         self.role = "Cybersecurity Student & Python Developer"
-        self.location = "🌍"
+        self.location = "Pakistan"
         self.learning = ["Pandas", "Flask", "Seaborn"]
         self.working_on = "AI Chatbot - BOTO"
         self.interests = ["Cybersecurity", "Python", "Data Analysis"]
@@ -151,27 +151,27 @@ me.say_hi()
 </h2>
 
 <div align="center">
-  <a href="https://github.com/shaheerjamalchishti90?tab=repositories&q=python&type=&language=python">
+  <a href="https://github.com/ShaheerJamalChishti90/My-Python-Codes-Learning-v2">
     <img src="https://progress-bar.dev/85/?title=Python&width=500&color=3776AB" alt="Python Progress" />
   </a><br>
   
-  <a href="https://github.com/shaheerjamalchishti90?tab=repositories&q=flask&type=&language=python">
+  <a href="https://github.com/ShaheerJamalChishti90/Learning-Flask">
     <img src="https://progress-bar.dev/70/?title=Flask&width=500&color=000000" alt="Flask Progress" />
   </a><br>
   
-  <a href="https://github.com/shaheerjamalchishti90?tab=repositories&q=mysql&type=&language=sql">
+  <a href="https://github.com/ShaheerJamalChishti90/My_SQL-">
     <img src="https://progress-bar.dev/80/?title=MySQL&width=500&color=00618A" alt="MySQL Progress" />
   </a><br>
   
-  <a href="https://github.com/shaheerjamalchishti90?tab=repositories&q=html+css&type=&language=html">
+  <a href="https://github.com/ShaheerJamalChishti90/Table">
     <img src="https://progress-bar.dev/70/?title=HTML/CSS&width=500&color=E34F26" alt="HTML/CSS Progress" />
   </a><br>
   
-  <a href="https://github.com/shaheerjamalchishti90?tab=repositories&q=pandas&type=&language=python">
+  <a href="https://github.com/ShaheerJamalChishti90/Learning-Pandas">
     <img src="https://progress-bar.dev/60/?title=Pandas&width=500&color=150458" alt="Pandas Progress" />
   </a><br>
   
-  <a href="https://github.com/shaheerjamalchishti90?tab=repositories&q=seaborn&type=&language=python">
+  <a href="https://github.com/ShaheerJamalChishti90/Learning-Seaborn-2024">
     <img src="https://progress-bar.dev/50/?title=Seaborn&width=500&color=3776AB" alt="Seaborn Progress" />
   </a>
 </div>
