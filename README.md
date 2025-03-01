@@ -10,14 +10,14 @@
 </p>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shaheerjamalchishti90&theme=nord&no-frame=false&no-bg=true&margin-w=15&margin-h=15&column=7" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shaheerjamalchishti90&theme=darkhub&no-frame=false&no-bg=false&margin-w=15&margin-h=15&column=7" alt="Trophy" />
 </div>
 
 <!-- About Me Section with Animation -->
-<h2 align="center">
+<h1 align="center" >
   <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="40"> 
   About Me
-</h2>
+</h1>
 
 <div align="center">
   <img align="right" height="270" width="400" alt="GIF" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -152,7 +152,7 @@ me.say_hi()
 
 <div align="center">
   <a href="https://github.com/ShaheerJamalChishti90/My-Python-Codes-Learning-v2">
-    <img src="https://progress-bar.dev/85/?title=Python&width=500&color=3776AB" alt="Python Progress" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Progress bar" width="50" height="50"/>
   </a><br>
   
   <a href="https://github.com/ShaheerJamalChishti90/Learning-Flask">
