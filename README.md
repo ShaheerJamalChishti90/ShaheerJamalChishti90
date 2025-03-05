@@ -9,9 +9,7 @@
   <a href="mailto:shaheerjamal369@gmail.com"><img src="https://img.shields.io/badge/Contact-Email%20Me-red" alt="Email"></a>
 </p>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shaheerjamalchishti90&theme=darkhub&no-frame=false&no-bg=false&margin-w=15&margin-h=15&column=7" alt="Trophy" />
-</div>
+
 
 <!-- About Me Section with Animation -->
 <h1 align="center" >
