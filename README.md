@@ -116,9 +116,6 @@ me.say_hi()
 </p>
 
 <!-- GitHub Streak -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=shaheerjamalchishti90&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
 
 <!-- Activity Graph -->
 <div align="center">
