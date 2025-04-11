@@ -187,16 +187,12 @@ me.say_hi()
 <!-- Support Me -->
 <h2 align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemlhZm14eTI0ejB3ZHR3aTVsbXcxMmNuNmxiMzh2NDUyOHRuNGgwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/23D8NR89IoZUC9jgsO/giphy.gif" width="40"> 
-  Support Me by following! <3
+  Thankyou for visiting!
 </h2>
 
 <p align="center">
-  <i>If you like my work, you can buy me a coffee!</i>
-</p>
-
-<p align="center">
   <a href="#">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
+    <img src="https://img.shields.io/badge/🌍%20Goodbye%20World!-ffdd00?style=for-the-badge" alt="Bye World!"/>
   </a>
 </p>
 
@@ -207,5 +203,5 @@ me.say_hi()
 
 <!-- Secret easter egg -->
 <p align="center">
-  <sub><sup>⭐ From <a href="https://github.com/shaheerjamalchishti90">Shaheer Jamal</a> with 💻 and ☕</sup></sub>
+  <sub><sup>From the 💻 of <a href="https://github.com/shaheerjamalchishti90">Shaheer Jamal Chishti</a> </sup></sub>
 </p>
