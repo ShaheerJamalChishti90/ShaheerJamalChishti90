@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/shaheerjamalchishti90"><img src="https://img.shields.io/github/followers/shaheerjamalchishti90?label=Followers&style=social" alt="GitHub Followers"></a>
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity%20%26%20Python-brightgreen" alt="Focus">
+  <img src="https://img.shields.io/badge/Focus-Python-brightgreen" alt="Focus">
   <img src="https://komarev.com/ghpvc/?username=shaheerjamalchishti90&label=Profile%20views&color=0e75b6&style=flat" alt="shaheerjamalchishti90" />
   <a href="mailto:shaheerjamal369@gmail.com"><img src="https://img.shields.io/badge/Contact-Email%20Me-red" alt="Email"></a>
 </p>
@@ -25,11 +25,10 @@
 class AboutMe:
     def __init__(self):
         self.name = "Shaheer Jamal"
-        self.role = "Cybersecurity Student & Python Developer"
         self.location = "Pakistan"
         self.learning = ["Pandas", "Flask", "Seaborn"]
         self.working_on = "AI Chatbot - BOTO"
-        self.interests = ["Cybersecurity", "Python", "Data Analysis"]
+        self.interests = ["Python", "Data Analysis"]
         
     def say_hi(self):
         print("Thanks for visiting my GitHub profile!")
@@ -50,7 +49,7 @@ me.say_hi()
 <p align="center">
   <b>🔭 Working on:</b> AI Chatbot - BOTO <img src="https://www.adoreinfotech.com/assets/img/chatbot-marketing.gif" alt="BOTO" width="20" height="20"/><br>
   <b>🌱 Learning:</b> Advanced Pandas, Flask Web Development, Data Visualization with Seaborn<br>
-  <b>💬 Ask me about:</b> Python, MySQL, Basic Cybersecurity<br>
+  <b>💬 Ask me about:</b> Python, MySQL, Pandas<br>
   <b>📫 Reach me at:</b> <a href="mailto:shaheerjamal369@gmail.com">shaheerjamal369@gmail.com</a><br>
   <b>🔗 Connect:</b> <a href="https://linkedin.com/in/shaheer-jamal-b75307272">LinkedIn Profile</a>
 </p>
