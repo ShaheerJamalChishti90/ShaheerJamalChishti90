@@ -2,11 +2,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=4B0082&center=true&vCenter=true&random=false&width=600&lines=Hello+World!+I'm+Shaheer+Jamal;Python+Developer;Welcome+to+my+GitHub+Profile!" alt="Greetings!" />
 </h1>
 
+<!--Profile Views, Focus, and Email Me block -->
 <p align="center">
   <a href="https://github.com/shaheerjamalchishti90"><img src="https://img.shields.io/github/followers/shaheerjamalchishti90?label=Followers&style=social" alt="GitHub Followers"></a>
   <img src="https://img.shields.io/badge/Focus-Python-brightgreen" alt="Focus">
   <img src="https://komarev.com/ghpvc/?username=shaheerjamalchishti90&label=Profile%20views&color=0e75b6&style=flat" alt="shaheerjamalchishti90" />
-  <a href="mailto:shaheerjamal369@gmail.com"><img src="https://img.shields.io/badge/Contact-Email%20Me-red" alt="Email"></a>
+  <a href="mailto:shaheerjamal369@gmail.com"><img src="https://img.shields.io/badge/Email Me-shaheerjamal369@gmail.com-red" alt="Email"></a>
 </p>
 
 
@@ -57,7 +58,7 @@ me.say_hi()
 <!-- Tech Stack -->
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40"> 
-  Tech Stack
+  My Tech Arsenal
 </h2>
 
 <p align="center">
