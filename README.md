@@ -66,6 +66,10 @@ me.say_hi()
   <a href="https://www.python.org" target="_blank">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   </a>
+
+<a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank">
+   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</a>
   
   <!-- Frameworks -->
   <a href="https://flask.palletsprojects.com/" target="_blank">
@@ -139,6 +143,10 @@ me.say_hi()
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
   <a href="https://github.com/ShaheerJamalChishti90/My-Python-Codes-Learning-v2">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Progress Bar" width="50" height="50" style="margin: 0 10px;"/>
+  </a>
+
+  <a href="https://github.com/ShaheerJamalChishti90/My-Python-Codes-Learning-v2">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Python Progress Bar" width="35" height="50" style="margin: 0 10px;"/>
   </a>
 
   <a href="https://github.com/ShaheerJamalChishti90/Table">
