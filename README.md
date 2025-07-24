@@ -208,8 +208,10 @@ me.say_hi()
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=90" width="100%"/>
 </div>
-
+<br><br>
 <!-- Secret easter egg -->
 <p align="center">
-  <sub><sup>From the 💻 of <a href="https://github.com/shaheerjamalchishti90">Shaheer Jamal Chishti</a> </sup></sub>
-</p>
+      <a href="https://github.com/shaheerjamalchishti90">
+        <img src="https://img.shields.io/badge/From_the_%F0%9F%92%BB_of_Shaheer_Jamal-black?style=for-the-badge&logo=githubsponsors&logoColor=auto&logoSize=auto&color=%23303030">
+      </a>
+    </p>
